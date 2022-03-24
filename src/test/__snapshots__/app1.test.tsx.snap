@@ -1,0 +1,39 @@
+// Vitest Snapshot v1
+
+exports[`test Onlick 1`] = `
+<div>
+  <div>
+    http://antfu.me
+  </div>
+  <div>
+    Anthony Fu
+  </div>
+  <p>
+    0
+  </p>
+  <button
+    onClick={[Function]}
+  >
+    click
+  </button>
+</div>
+`;
+
+exports[`test Onlick 2`] = `
+<div>
+  <div>
+    http://antfu.me
+  </div>
+  <div>
+    Anthony Fu
+  </div>
+  <p>
+    0
+  </p>
+  <button
+    onClick={[Function]}
+  >
+    click
+  </button>
+</div>
+`;
